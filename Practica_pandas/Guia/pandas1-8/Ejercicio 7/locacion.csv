@@ -1,0 +1,13 @@
+id_locacion,nombre,capacidad,capacidad_extendida,sede
+0,CENARD,2000,2200,Parque Verde
+1,Club Hipico Argentino,5000,5500,Parque Verde
+2,Bosques de Palermo,4700,5170,Parque Verde
+3,Buenos Aires Lawn Tennis Club,5500,6050,Parque Verde
+4,Beach Volleyball Arena,6300,6930,Parque Verde
+5,Diques Puerto Madero,2100,2310,Parque Urbano
+6,Parque Mujeres Argentinas,3800,4180,Parque Urbano
+7,Villa Olimpica,7000,7700,Parque Olímpico
+8,Estadio Mary Terán de Weiss,15500,17050,Parque Olímpico
+9,Centro Olimpico de la Juventud,14500,15950,Parque Olímpico
+10,Tecnópolis,5700,6270,Tecnópolis
+11,Parque Sarmiento,2400,2640,Tecnópolis

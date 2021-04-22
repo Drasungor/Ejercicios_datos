@@ -1,0 +1,12 @@
+id_evento,fecha,id_locacion,nombre_evento,id_categoria_deportiva,cantidad_espectadores
+0,2018-10-14,6,basquet,0,12399
+1,2018-10-17,10,futsal,0,12997
+2,2018-10-13,4,voley,0,7027
+3,2018-10-14,10,ping pong,0,6673
+4,2018-10-15,9,boxeo,1,8071
+5,2018-10-14,9,taekwondo,1,5734
+6,2018-10-11,9,judo,1,5247
+7,2018-10-17,9,800m estilo libre,2,3604
+8,2018-10-08,9,saltos ornamentales,2,908
+9,2018-10-15,9,posta,3,5606
+10,2018-10-09,9,sprint 100m,3,5606
